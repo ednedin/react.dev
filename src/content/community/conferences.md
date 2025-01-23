@@ -10,6 +10,11 @@ Do you know of a local React.js conference? Add it here! (Please keep the list c
 
 ## Upcoming Conferences {/*upcoming-conferences*/}
 
+### React Global: AI Agents Day {/*react-global-AI-Agents-day*/}
+February 19, 2025. Online
+
+[Website](https://event.geekle.us/react) - [Twitter](https://x.com/GeekleOfficial)
+
 ### React Paris 2025 {/*react-paris-2025*/}
 March 20 - 21, 2025. In-person in Paris, France (hybrid event)
 
